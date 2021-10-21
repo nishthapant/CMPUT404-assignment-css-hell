@@ -1,2 +1,2 @@
-populate:
-	python3 populate.py
+# populate:
+# 	python3 populate.py
