@@ -67,7 +67,10 @@ body {
     font-weight: bolder;
 }
 
-/* cite the author of this css */
+/* the following 4 css sepcifications for 'a' tag have been taken from the html of this site:
+    https://www.gutenberg.org/cache/epub/25344/pg25344-images.html
+    Produced by: Markus Brenner, Irma Spehar and the Online Distributed Proofreading Team
+*/
 a:link {
     text-decoration: none;
     color: #104E8B;
@@ -84,6 +87,8 @@ a:hover {
 a:active {
     text-decoration: underline
     }
+
+
 .image{
     width: 100%;
 }
