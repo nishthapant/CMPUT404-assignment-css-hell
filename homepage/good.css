@@ -1,12 +1,68 @@
+body{
+    background-color: #EEEEEE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+}
 .title{
+    text-align: center;;
+    color: white;
+}
+h2, h3{
     text-align: center;
+    font-weight: bold;
+}
+.main-bar {
+    background-color: teal;
+}
+.bar{
+    background-color: #AAD8D3;
+    width:20%;
 }
 .image{
     width: 100%;
+    border-radius: 80%;
+    width: 40%;
 }
 .figure {
     display: block;
     margin: 0 auto;
     text-align:center;
-    width: 60%;
+}
+.profile-pic{
+    width:40%
+}
+.profile-title {
+    font-size: 50px;
+}
+.contact {
+    background-color: #AAD8D3;
+    color: white;
+    width:100%
+}
+.email{
+    width:80%;
+    text-align: right;
+    color: white;
+    padding-right: 5em;
+}
+.cards{
+    border-radius: 10%;
+    border-color: black;
+    border-style: solid;
+}
+.main-cards{
+    padding: 30px;
+}
+.skill-cards{
+    width:50%;
+    padding:30px;
+}
+.main-col {
+    padding:40px;
+}
+.achieve{
+    line-height: 2;
+}
+.hist{
+    padding: 30px;
 }
