@@ -1,12 +1,3 @@
-/* Theme paragraphs with CSS
-[ ] Theme header tags with CSS
-[ ] Theme images and images captions with CSS
-[ ] Change the colour scheme to something aesthetically pleasing
-[ ] Apply 1 CSS file to 3 gutenberg documents.
-[ ] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
-[ ] document in your README what modifications you had to make to the project gutenberg HTML files.
-[ ] Take 3 screenshots of firefox running all of your pages that demonstrates your theme.
-*/
 p {
     margin-top: 1em;
     margin-bottom: 0.75em;
@@ -42,12 +33,10 @@ table {
 body {
     margin-left: 10%;
     margin-right: 10%;
-    /* background-color: #FAF3E0; */
     background-color: #F9F3DF
     }
 .information {
     background-color: #F5E8C7;
-    /* background-color: #F9E4C8; */
     margin-left: 15%;
     margin-right: 15%;
     height:auto;
@@ -77,6 +66,8 @@ body {
     font-size: large;
     font-weight: bolder;
 }
+
+/* cite the author of this css */
 a:link {
     text-decoration: none;
     color: #104E8B;
